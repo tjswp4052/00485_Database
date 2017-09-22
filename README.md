@@ -1,7 +1,7 @@
 # 00485_Database
 Database Course Public Repository
 
-## This Repository
+## About This Repository
 This repository is for the students of Database Course 00485-02.
 
 ## File Naming Rule
